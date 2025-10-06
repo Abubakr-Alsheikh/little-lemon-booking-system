@@ -88,7 +88,7 @@ An interactive dashboard was created to analyze sales performance, customer beha
 
 ### Final Sales Dashboard
 
-![Little Lemon Metabase Dashboard](https://raw.githubusercontent.com/Abubakr-Alsheikh/little-lemon-booking-system/main/reports_metabase/metabase_final_dashboard.png)
+![Little Lemon Metabase Dashboard](https://raw.githubusercontent.com/Abubakr-Alsheikh/little-lemon-booking-system/main/reports_metabase/metabase_final_dashboard.jpeg)
 
 The dashboard includes the following key reports:
 
