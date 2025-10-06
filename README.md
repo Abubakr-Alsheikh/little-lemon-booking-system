@@ -50,7 +50,7 @@ The initial dataset was a single flat file. To build a robust and scalable syste
 
 The relationships between the tables are visualized in the Entity-Relationship Diagram below:
 
-![Little Lemon ER Diagram](diagrams/little_lemon_ERD.png)
+![Little Lemon ER Diagram](https://raw.githubusercontent.com/Abubakr-Alsheikh/little-lemon-booking-system/main/diagrams/little_lemon_ERD.png)
 
 ### Tables
 
@@ -88,7 +88,7 @@ An interactive dashboard was created to analyze sales performance, customer beha
 
 ### Final Sales Dashboard
 
-![Little Lemon Metabase Dashboard](reports_metabase/metabase_final_dashboard.png)
+![Little Lemon Metabase Dashboard](https://raw.githubusercontent.com/Abubakr-Alsheikh/little-lemon-booking-system/main/reports_metabase/metabase_final_dashboard.png)
 
 The dashboard includes the following key reports:
 
